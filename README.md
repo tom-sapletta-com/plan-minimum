@@ -68,6 +68,13 @@ nazywanie procesów i tworzenie dokumentacji dla Twinizer - digital Twin
 + zmiana dystrybucji w ciągu roku, sezonowość
 + zmiana jako proces a nie wyjątek.
 
+Wyłączenia sezonowe, okresowe usług, które nie są używane lub w małym stopniu
+Podwynajem u innego usługodawcy na ten czas, itp
+
+
+
+Tworzenie dokumentacji i konfiguracji w formacie hypermoidularnym, gdzie można łączyć wiele procesów i rozbudowaywać w oparciu o katalog prywatny i publiczny
+
 
 
 ## Optymalizacja
