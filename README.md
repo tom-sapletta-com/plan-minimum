@@ -44,10 +44,10 @@ domeny na sprzedaż ogłaszane w róznych systemach:
 ## Oszczędność czasu
 
 Systemy zarządzające do powtarzalnych zadań
-+ [FinOfficer.com](http://www.FinOfficer.com) dla dostarczania księgowości
-+ [Lockerless.com](http://www.Lockerless.com) - szyfrowanie transmisji
-+ [DocuTan.com](http://www.DocuTan.com) - klucze prywatne
-+ [Parkignomat.com](http://www.Parkignomat.com) - automatyzacja zarzadzania domen poprzez dostęp do API.
++ [FinOfficer.com](http://www.FinOfficer.com) - bezpieczne zbieranie, przechowywanie i wymiana dokumentów z księgowością i prawnikiem 
++ [Lockerless.com](http://www.Lockerless.com) - jednorazowy sejf i szyfrowana transmisja
++ [DocuTan.com](http://www.DocuTan.com) - klucze prywatne do bezpiecznych transakcji
++ [Parkingomat.com](http://www.Parkingomat.com) - automatyzacja zarzadzania domen poprzez dostęp do API.
 + [Browseen.com](http://www.Browseen.com) - wyszukwiarka do szukanie alternatyw dla infrastruktury w celu osiągnięcie lepszych rezultatów automatyzacji
 + [OneDayRun.com](http://www.OneDayRun.com)- lepsza dokumentacja projektów, zarządzanie modułami
 + [Twinizer](http://www.twinizer.com) - dokumentacja dla digital Twin w celu łączenia różnych procesów dla róznych interfejsów
@@ -79,6 +79,25 @@ Tworzenie dokumentacji i konfiguracji w formacie hypermoidularnym, gdzie można 
 
 ## Optymalizacja
 
+
+
+## Profil sprzedaży
+
+Informacja
++ blogi, artykuły do publikowania i udostępniania w mediach
++ książka, fundacja, sprzedaż i rozdawanie  w placówkach edukacyjnych
+
+Edukacja organizacji
++ szkolenia na różnych platformach
++ warsztaty dopasowane do firm
+
+Oprogramowanie dla ekspertów
++ SaaS - do darmowego jednorazowego testowania
++ SaaS z własną Infrą dla organizacji
+
+Dla organizacji
++ on demand - SaaS dla klientów
++ development - sourcecode dopasowany do firm
 
 
 
