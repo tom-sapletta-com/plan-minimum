@@ -39,6 +39,8 @@ domeny na sprzedaż ogłaszane w róznych systemach:
 + namecheap
 
 
+
+
 ## Oszczędność czasu
 
 Systemy zarządzające do powtarzalnych zadań
@@ -48,8 +50,23 @@ Systemy zarządzające do powtarzalnych zadań
 + [Parkignomat.com](http://www.Parkignomat.com) - automatyzacja zarzadzania domen poprzez dostęp do API.
 + [Browseen.com](http://www.Browseen.com) - wyszukwiarka do szukanie alternatyw dla infrastruktury w celu osiągnięcie lepszych rezultatów automatyzacji
 + [OneDayRun.com](http://www.OneDayRun.com)- lepsza dokumentacja projektów, zarządzanie modułami
- 
++ [Twinizer](http://www.twinizer.com) - dokumentacja dla digital Twin w celu łączenia różnych procesów dla róznych interfejsów
 
+
+
+### Strategia
+
+Tworzenie planu dla zmian
+
+
+roadmap
+aktualne statystyki, triggers, czytanie zmian i adaptacja procesów pod nie
+nazywanie procesów i tworzenie dokumentacji dla Twinizer - digital Twin
++ opłaty
++ usługi
++ sposób dystrybucji
++ zmiana dystrybucji w ciągu roku, sezonowość
++ zmiana jako proces a nie wyjątek.
 
 
 
