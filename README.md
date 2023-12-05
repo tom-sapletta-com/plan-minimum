@@ -110,8 +110,8 @@ Dla organizacji
 
 
 
-## Contribution
+## [Contribution](http://contribution.softreck.dev)
 
-+ [issue](https://github.com/tom-sapletta-com/plan-minimum/issue)
++ [issue](https://github.com/tom-sapletta-com/plan-minimum/issues/new)
 + [edit](https://github.com/tom-sapletta-com/plan-minimum/edit/main/README.md)
 + [git](https://github.com/tom-sapletta-com/)
