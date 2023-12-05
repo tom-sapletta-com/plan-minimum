@@ -100,11 +100,18 @@ Dla organizacji
 + development - sourcecode dopasowany do firm
 
 
+## Zarządzanie
+
++ [OKR - skuteczna metoda osiągania celów - Karol Maj](https://karolmaj.pl/okr-skuteczna-metoda-osiagania-celow/)
+
 
 
 ## Docs
 
----
 
+
+## Contribution
+
++ [issue](https://github.com/tom-sapletta-com/plan-minimum/issue)
 + [edit](https://github.com/tom-sapletta-com/plan-minimum/edit/main/README.md)
 + [git](https://github.com/tom-sapletta-com/)
